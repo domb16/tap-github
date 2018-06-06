@@ -2,7 +2,7 @@
 
 from setuptools import setup, find_packages
 
-setup(name='tap-github',
+setup(name='tap-github-nopackageclash',
       version='1.0.0',
       description='Singer.io tap for extracting data from the GitHub API',
       author='Stitch',
